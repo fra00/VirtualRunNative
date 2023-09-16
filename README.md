@@ -1,6 +1,6 @@
 # Arduino Virtual Run App
 
-![board](images/board.png)
+![board](images/board.jpeg)
 
 Arduino Virtual Run App is an application that allows you to connect your smartphone with an Arduino board and a treadmill, and display virtual run videos from YouTube on your screen, to make your workout more fun and immersive. You can choose from different videos based on the duration, difficulty, scenery and quality of the image. 
 
@@ -12,10 +12,10 @@ Here is a picture of the circuit to make on Arduino:
 ![ardu_schema](images/image.png)
 
 Treadmill sensor to connect to arduino
-![ardu_schema](images/wire2.png)
+![ardu_schema](images/wire2.jpeg)
 
 To easily connect the Arduino to the treadmill sensor I made a shield for the Arduino
-![ardu_schema](images/wire1.png)
+![ardu_schema](images/wire1.jpeg)
 
 If you want, you can also find the code of Arduino in another repository, following this link:
 
