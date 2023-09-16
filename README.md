@@ -19,7 +19,7 @@ To easily connect the Arduino to the treadmill sensor I made a shield for the Ar
 
 If you want, you can also find the code of Arduino in another repository, following this link:
 
-[[Link to the Arduino repository]](https://github.com/fra00/VirtualRunArduino)
+[Link to the Arduino repository](https://github.com/fra00/VirtualRunArduino)
 
 ## License
 
