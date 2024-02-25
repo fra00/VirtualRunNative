@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test-native",
-    "slug": "test-native",
+    "name": "virtualRun",
+    "slug": "virtualRun",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,10 +29,16 @@
             "initialOrientation": "DEFAULT"
           }
         ]
-      ]
+      ],
+      "package": "com.fra00.virtualRun"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "09467c8f-18b1-4cbb-b341-015e3fdbea05"
+      }
     }
   }
 }

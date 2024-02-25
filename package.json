@@ -1,5 +1,5 @@
 {
-  "name": "test-native",
+  "name": "virtualRun-native",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -13,11 +13,10 @@
     "expo-screen-orientation": "~6.0.5",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.72.3",
+    "react-native": "0.72.10",
     "react-native-dialog": "^9.3.0",
-    "react-native-http-server": "^0.1.2",
     "react-native-popup-dialog": "^0.18.3",
-    "react-native-webview": "^13.3.1",
+    "react-native-webview": "13.2.2",
     "react-native-youtube-iframe": "^2.3.0"
   },
   "devDependencies": {
