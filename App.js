@@ -14,7 +14,7 @@ import Dialog, {
   DialogFooter,
   DialogTitle,
 } from "react-native-popup-dialog";
-// import Dialog from "react-native-dialog";
+
 import YoutubePlayer from "react-native-youtube-iframe";
 import * as ScreenOrientation from "expo-screen-orientation";
 import { virtualRunList } from "./virtualRunList";
